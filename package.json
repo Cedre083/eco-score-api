@@ -1,0 +1,18 @@
+{
+  "name": "eco-score-api",
+  "version": "1.0.0",
+  "description": "API pour calculer l'empreinte carbone des sites web",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "keywords": ["eco", "carbon", "sustainability"],
+  "author": "Manus AI",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
+
